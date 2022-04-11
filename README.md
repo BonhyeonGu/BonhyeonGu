@@ -14,4 +14,8 @@
 ### 🛠LANG🛠
 ![d](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF) 
 
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwhdtk)](https://solved.ac/whwhdtk)
+
 </div>
+
+
