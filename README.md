@@ -4,7 +4,7 @@
 
 
 ### ✉️ME✉️
-![https://docs.9bon.org](https://img.shields.io/badge/-Dev_Blog-4285F4?style=flat-square-badge&logo=hugo&logoColor=FFFFFF&link=https://docs.9bon.org) ![d](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF&link=tayasriel@gmail.com) ![https://cloud.9bon.org](https://img.shields.io/badge/-Cloud-0082C9?style=flat-square&logo=nextcloud&logoColor=FFFFFF&link=https://cloud.9bon.org) 
+[![https://docs.9bon.org](https://img.shields.io/badge/-Dev_Blog-4285F4?style=flat-square-badge&logo=hugo&logoColor=FFFFFF)](https://docs.9bon.org) [![d](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF)](tayasriel@gmail.com) [![https://cloud.9bon.org](https://img.shields.io/badge/-Cloud-0082C9?style=flat-square&logo=nextcloud&logoColor=FFFFFF)](https://cloud.9bon.org) 
 
 ### 🧰ENV🧰
 ![d](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&logo=debian) ![d](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF) 
