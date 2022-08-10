@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&height=120&section=header&text=Bonehyeon%20Gu&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&height=120&section=header&text=Bonehyeon%20Gu&fontSize=80&animation=fadeIn)
 
 [![https://docs.9bon.org](https://img.shields.io/badge/-Dev_Blog-4285F4?style=flat-square-badge&logo=hugo&logoColor=FFFFFF)](https://docs.9bon.org) [![d](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF)](tayasriel@gmail.com) [![https://cloud.9bon.org](https://img.shields.io/badge/-Cloud-0082C9?style=flat-square&logo=nextcloud&logoColor=FFFFFF)](https://cloud.9bon.org) 
 
