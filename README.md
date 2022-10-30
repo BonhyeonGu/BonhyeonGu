@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&height=120&section=header&text=Bonehyeon%20Gu&fontSize=80&animation=fadeIn)
 
-[![https://docs.9bon.org](https://img.shields.io/badge/-Dev_Blog-4285F4?style=flat-square-badge&logo=hugo&logoColor=FFFFFF)](https://docs.9bon.org) [![d](https://img.shields.io/badge/-bonhyeon.gu@9bon.org-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF)](bonhyeon.gu@9bon.org) [![https://cloud.9bon.org](https://img.shields.io/badge/-Storage-0082C9?style=flat-square&logo=nextcloud&logoColor=FFFFFF)](https://cloud.9bon.org) 
+[![https://bonhyeon.9bon.org/](https://img.shields.io/badge/-Whoami-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF)](https://bonhyeon.9bon.org/) [![https://docs.9bon.org](https://img.shields.io/badge/-Dev_Blog-4285F4?style=flat-square-badge&logo=hugo&logoColor=FFFFFF)](https://docs.9bon.org) [![d](https://img.shields.io/badge/-bonhyeon.gu@9bon.org-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF)](bonhyeon.gu@9bon.org) [![https://cloud.9bon.org](https://img.shields.io/badge/-Storage-0082C9?style=flat-square&logo=nextcloud&logoColor=FFFFFF)](https://cloud.9bon.org) 
 <br><br><br><br>
 #### 🧰ENV🧰
 ![d](https://img.shields.io/badge/-debian-A81D33?style=for-the-badge&logo=debian) ![d](https://img.shields.io/badge/-ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF) ![d](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=FFFFFF)
