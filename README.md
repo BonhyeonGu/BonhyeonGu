@@ -1,7 +1,7 @@
 
 <div align="">
 
-<a href="https://solved.ac/whkakrkr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=4&exclude_repo=BREAK_nvr2,BREAK_OS-NVR,&hide=html,css,scss,ejs&username=BonhyeonGu"/>
+<a href="https://solved.ac/whkakrkr"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&langs_count=4&exclude_repo=UD_Graph_test,BREAK_nvr2,BREAK_OS-NVR,&hide=html,css,scss,ejs&username=BonhyeonGu"/>
     
  ## Bonhyeon Gu
   
