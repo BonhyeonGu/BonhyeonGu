@@ -18,5 +18,5 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, go, scss
           plugin_languages_skipped: BonhyeonGu/webrtc_nvr, BonhyeonGu/citygml-to-3dtiles
-          plugin_languages_indepth: yes
-          commits_authoring: bonhyeon.gu@9bon.org, Bonhyeon Gu, BonhyeonGu
+          #plugin_languages_indepth: yes
+          #commits_authoring: bonhyeon.gu@9bon.org, Bonhyeon Gu, BonhyeonGu
