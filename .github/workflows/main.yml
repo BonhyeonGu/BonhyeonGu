@@ -16,5 +16,5 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css, go
+          plugin_languages_ignored: html, css, go, scss
           plugin_languages_skipped: BonhyeonGu/webrtc_nvr
