@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+<picture><img src="/github-metrics.svg"/></picture>
 
 <table border="0">
   <tr>
