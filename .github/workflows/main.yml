@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
-          plugin_languages_ignored: html, css, scss
+          plugin_languages_ignored: html, css, scss, R
           plugin_languages_skipped: |
             BonhyeonGu/webrtc_nvr
             BonhyeonGu/citygml-to-3dtiles
